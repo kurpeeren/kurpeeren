@@ -5,9 +5,9 @@
       <div align="right">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kurpeeren&layout=compact&langs_count=8&theme=tokyonight"/></div>
 
-![snake gif](dist/github-contribution-grid-snake.svg)
-</p>
 
+</p>
+![snake gif](dist/github-contribution-grid-snake.svg)
 **kurpeeren/kurpeeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
