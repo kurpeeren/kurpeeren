@@ -1,9 +1,8 @@
 ### Hi there 👋
 <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurpeeren&theme=gotham &show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kurpeeren&layout=compact&langs_count=8&theme=gotham "/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurpeeren&theme=tokyonight&show_icons=true&count_private=true)"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kurpeeren&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
 
 **kurpeeren/kurpeeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
