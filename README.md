@@ -16,10 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurpeeren" height="30" width="40" /></a>
-<a href="https://twitter.com/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kurpeeren" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kurpeeren" height="30" width="40" /></a>
+      -->
 <a href="https://www.linkedin.com/in/erenkurpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurpeeren" height="30" width="40" /></a>
 <a href="https://instagram.com/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kurpeeren" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kurpeeren" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChoON9m4Xad-33uNyuRAHqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kurpeeren" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kurpeeren" height="30" width="40" /></a>
 </p>
 
