@@ -43,9 +43,6 @@
 <div class="logos">
     <h3 >Languages and Tools:</h3>
     <p class="logolist">
-      <a href="https://www.arduino.cc/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-      </a>
       <a href="https://www.blender.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
       </a>
@@ -108,6 +105,9 @@
       </a>
       <a href="https://unity.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
+      </a>
+            <a href="https://www.arduino.cc/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
       </a>
     </p>
   </div>
