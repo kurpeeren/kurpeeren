@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20👋%20I'm%20Eren&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Electrical%20&%20Electronics%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=20" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20There!%20👋%20I'm%20Eren&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Electrical%20&%20Electronics%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=20" alt="Header Image" />
 </div>
 
 <h3 align="center">Welcome to my creative space! 🚀</h3>
@@ -106,5 +106,5 @@ I am a passionate **Electrical and Electronics Engineer** from Turkey with a dee
 
 <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
