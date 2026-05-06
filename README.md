@@ -1,117 +1,110 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20👋%20I'm%20Eren&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Electrical%20&%20Electronics%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=20" alt="Header Image" />
+</div>
 
+<h3 align="center">Welcome to my creative space! 🚀</h3>
 
-<h1 align="center">Hi 👋, I'm Eren Kurpe</h1>
-<h3 align="center">Passionate electrical and electronics engineer from Turkey</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/erenkurpe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kurpeeren@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/kurpeeren" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/channel/UChoON9m4Xad-33uNyuRAHqg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://dev.to/kurpeeren" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
 
-- 🔭 I am organizing my projects for GitHub. [https://github.com/kurpeeren](https://github.com/kurpeeren)
+<br/>
 
-- 🌱 I’m currently learning **I'm currently learning web development, with a specific focus on HTML, CSS, JavaScript, and AngularJS.**
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Python, .NET, C#, software projects, programming languages, automation, data processing, electronics, and electrical engineering.**
+I am a passionate **Electrical and Electronics Engineer** from Turkey with a deep interest in software development and automation. I thrive at the intersection of hardware and software! 
 
-- 📫 How to reach me **kurpeeren@gmail.com**
+- 🔭 I am currently organizing my projects and contributing to open source.
+- 🌱 **Currently Learning:** Advanced Web Development (HTML, CSS, JavaScript, AngularJS).
+- 💬 **Ask me about:** Python, .NET, C#, Automation, Data Processing, Electronics, and Electrical Engineering.
+- ⚡ **Fun Fact:** I once built a project that played music using servo motors! 🎵🤖
 
-- ⚡ Fun fact **Once, I had created a project that played music using servo motors.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠️ Tech Stack & Tools
 
-<!--<a href="https://twitter.com/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kurpeeren" height="30" width="40" /></a>
-      -->
-<a href="https://www.linkedin.com/in/erenkurpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurpeeren" height="30" width="40" /></a>
-<a href="https://instagram.com/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kurpeeren" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UChoON9m4Xad-33uNyuRAHqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kurpeeren" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kurpeeren" height="30" width="40" /></a>
-<a href="https://dev.to/kurpeeren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kurpeeren" height="30" width="40" /></a>
-</p>
-
-***
-
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br/>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurpeeren&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kurpeeren&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+</details>
 
-***
+<details open>
+<summary><b>Frameworks & Technologies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+</details>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kurpeeren"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kurpeeren" /></a><a href="https://ko-fi.com/kurpeeren"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kurpeeren" /></a></p><br><br>
+<details open>
+<summary><b>Tools, Design & Hardware</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+</details>
 
+---
 
-***
+## 📈 GitHub Stats
 
-<div class="logos">
-    <h3> Languages and Tools: </h3>
-    <p class="logolist">
-      <a href="https://www.cprogramming.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-      </a>
-      <a href="https://www.w3schools.com/cpp/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-      </a>
-      <a href="https://www.w3schools.com/cs/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-      </a>
-      <a href="https://dotnet.microsoft.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-      </a>
-      <a href="https://www.figma.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-      </a>
-      <a href="https://git-scm.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-      </a>
-      <a href="https://www.adobe.com/in/products/illustrator.html" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-      </a>
-      <a href="https://www.linux.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-      </a>
-      <a href="https://www.mathworks.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-      </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-      </a>
-      <a href="https://opencv.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-      </a>
-      <a href="https://pandas.pydata.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-      </a>
-      <a href="https://www.photoshop.com/en" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-      </a>
-      <a href="https://www.python.org" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-      </a>
-      <a href="https://scikit-learn.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-      </a>
-      <a href="https://www.selenium.dev" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-      </a>
-      <a href="https://www.tensorflow.org" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-      </a>
-      <a href="https://www.typescriptlang.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-      </a>
-      <a href="https://unity.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-      </a>
-      <a href="https://www.arduino.cc/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-      </a>
-      <a href="https://www.blender.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-      </a>
-    </p>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurpeeren&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Eren's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurpeeren&theme=tokyonight&hide_border=true" alt="Eren's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurpeeren&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-***
+---
 
-...
+<div align="center">
+  <h3>Support My Work ☕</h3>
+  <a href="https://www.buymeacoffee.com/kurpeeren" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
+  </a>
+  <a href="https://ko-fi.com/kurpeeren" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="40" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
