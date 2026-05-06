@@ -85,11 +85,11 @@ I am a passionate **Engineer** from Turkey with a deep interest in software deve
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurpeeren&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Eren's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurpeeren&theme=tokyonight&show_icons=true&hide_border=true" alt="Eren's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurpeeren&theme=tokyonight&hide_border=true" alt="Eren's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kurpeeren&theme=tokyonight&hide_border=true" alt="Eren's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurpeeren&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kurpeeren&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
