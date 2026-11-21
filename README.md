@@ -30,12 +30,3 @@
   <img src="https://img.shields.io/badge/MQTT-0d1117?style=flat-square&logo=eclipsemosquitto" alt="MQTT" />
   <img src="https://img.shields.io/badge/Arduino%20%2F%20Modbus-0d1117?style=flat-square&logo=arduino" alt="Arduino / Modbus" />
 </p>
-
-## Projects
-
-| Project | What it is |
-| --- | --- |
-| [ronesin.com](https://ronesin.com) | Web design & development studio |
-| [siyahlabs.com](https://siyahlabs.com) | Digital product studio |
-| [etraftan.com](https://etraftan.com) | Local services marketplace (Bursa) |
-| [zyault.com](https://zyault.com) | Websites for local businesses |
